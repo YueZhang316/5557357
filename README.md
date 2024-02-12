@@ -1,20 +1,26 @@
-# DDP2324-GitHubExercise
+# Warwick Dining Hub Web Application
 
 ## Introduction
-This task is designed to help you familiarise yourself with some of the fundamental features of GitHub, including forking, cloning, committing, pushing, and pull requests. By completing this exercise, you will gain practical experience in using GitHub for collaboration.
+Welcome to the Warwick Dining Hub web application! This web application aims to enhance the dining experience at Warwick University by providing real-time updates on menus, opening hours, events, and online booking and orders for various dining facilities on campus.
 
 ## Objective
-Your task is to fork this repository, add a document with your student ID, and then create a pull request to merge your document into this main repository.
+Create an interactive platform for students and school faculty.
 
-## Instructions
-1. Fork this Repository:
-   - Click the 'Fork' button at the top-right of this repository page on GitHub. This creates a personal copy of this repository in your account.
-2. Add your Student ID Document:
-    - In your forked repository, click the 'Add file' button and select 'Create new file'.
-    - Name the file [IDnumber].txt (replace <IDnumber> with your actual student ID).
-    - In the file, write me a message (please be kind 😅).
-    - Scroll down, add a commit message in the "Commit new file" section, and click 'Commit new file'.
-3. Create a Pull Request:
-    - On your forked repository's main page, click the 'Pull requests' tab and then click 'New pull request'.
-    - GitHub will automatically set the base repository as the original one you forked from. Ensure the 'compare' branch is the one with your changes.
-    - Click 'Create pull request', add a title and a brief description of your changes, and then click 'Create pull request' again.
+## Features
+User Authentication: Users can sign in to access personalized features and order online.
+Menu Display: Real-time display of menus for restaurants, cafes, and dining halls.
+Online Ordering: Users can place orders online for pickup or delivery.
+Event Updates: Stay informed about upcoming events and special promotions.
+Responsive Design: The application is designed to be mobile-friendly and responsive across different devices.
+   
+## Installation
+Clone the repository.
+Navigate to the project directory.
+Install dependencies: pip install -r requirements.txt
+Set up the database.
+Run the application:app.py
+
+## Usage
+Sign in with your credentials or create a new account.
+Explore menus, place orders, and view upcoming events.
+Enjoy a seamless dining experience at Warwick University!
