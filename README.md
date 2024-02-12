@@ -14,11 +14,11 @@ Create an interactive platform for students and school faculty.
 -Responsive Design: The application is designed to be mobile-friendly and responsive across different devices.
    
 ## Installation
--Clone the repository.
--Navigate to the project directory.
--Install dependencies: pip install -r requirements.txt
--Set up the database.
--Run the application:app.py
+1.Clone the repository.
+2.Navigate to the project directory.
+3.Install dependencies: pip install -r requirements.txt
+4.Set up the database.
+5.Run the application:app.py
 
 ## Usage
 1.Sign in with your credentials or create a new account.
